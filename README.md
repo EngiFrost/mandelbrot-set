@@ -1,4 +1,4 @@
-# Mandalbrot fractals
+# Mandelbrot fractals
 
 ## Sources
 Numpy & Matplotlib:
